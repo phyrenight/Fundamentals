@@ -1,0 +1,8 @@
+1. Go to the directory you watn to install the repo in
+2. Go to the repo page on github
+3. Click "code" then copy the URL
+4. Using "git clone" command along with the copied url from earlier in the command line
+	ex. git clone http://github.com/username/repository
+
+Jean-Christophe-Chouinard, 1 Dec 2019, Clone a Github Repository on your computer retrieved from https://www.jcchouinard.com/clone-github-repository-on-windows/
+
