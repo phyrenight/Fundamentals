@@ -1,0 +1,9 @@
+1. after making a update to your files open a terminal
+2. navigate to the project folder
+3. type "git add ."
+4. next type git commit -m " add a message of what problem was fixed"
+5. initiate the push to github with "git push origin"
+6. Enter your username and password(token) when prompted come up.
+
+Smith, Olivia, 23 July 2019, Git Push and Pull, datacamp retrieved from datacamp.com/community/tutorials/git-push-pull
+
