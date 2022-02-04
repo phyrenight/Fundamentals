@@ -1,0 +1,27 @@
+04 Feb 2022
+Sets
+- can only contain unique elements
+- items do not maintain a specific order (unordered)
+- mutable
+- implementation of mathematics set theory
+- almost always created from a list
+- can create a set by using set()
+-.add() used to add a single elements
+ -- only adds new item if it is not in the set
+- .update() merges in another set or list
+ -- only adds new item if it is not in the set
+- .discard() 
+ -- used to safely removes an element from the set by value
+- .pop()
+ -- removes and returns an element from the set
+ -- keyError when empty
+- set operations
+ -- ..union()
+  -- returns a set of all the names
+  -- similar to 'or'
+ -- .intersection()
+  -- identifies overlapping data
+  -- similar to 'and'
+ -- .difference()
+  -- identifies the differences in the two sets and returns what the first set does not have
+  -- the order in which this is done effects the output

@@ -1,0 +1,20 @@
+04 Feb 2022
+tuples
+- contain elements like lists
+- keeps the elements in order
+- tuples are immutable
+- used in things like databases
+- can be index like lists
+- are easier to process than lists
+- more memory efficient than lists
+- to create a tuple you can pair up elements
+- tuple unpacking
+- tuples can be created by zip() to list together
+ -- ex. tuple_variable =  list(zip(list_1, list_2))
+ -- [('',''),('',''),('',''),('','')
+- tuple unpacking turing a tuple into two different lists
+- if a list is ended with a comma (,)
+-enumerate()
+ -- used in the for loop to return the index value and element in a list
+ -- first element is the index second element is the element itself
+
