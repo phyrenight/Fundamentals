@@ -1,0 +1,31 @@
+04 Feb 2022
+containers sequence
+- can be mutable
+ -- can be changed
+ -- ex. list, sets
+- can be immutable
+ -- can not be changed
+ -- ex. tuples
+- are iterable
+
+list
+- hold an order of elemensts
+- mutable
+-can be indexed
+-list functions
+ -- append()
+  -- adds an element to the end of the list
+ -- can combine two list together by:
+  -- using the "+"sign, this creates a new list
+  -- .extend() can merges a second list into the first list
+
+ -- .index() can be used to find a specific element in a list
+ -- .pop() is used to remove an element from a list a returns that element
+  --ex. New_variable_from_pop = list_variable.pop(element)
+- can iterate over a list with for
+ --ex. for i in list_variables:
+ --        print(i)
+
+sorted()
+- returns a sorted list without altering the original list
+- a function and not a method of list
